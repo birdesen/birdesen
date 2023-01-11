@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @birdesen
 - 👀 I’m interested in Computer programming and Network
-- 🌱 I’m currently learning JAVA, HTML, CSS
+- 🌱 I’m currently learning JAVA, SQL, HTML, CSS
 
 
 <!---
